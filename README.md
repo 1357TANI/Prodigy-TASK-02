@@ -1,1 +1,1 @@
-# Prodigy-TASK-02
+# I imported and inspected the Titanic dataset. I plotted a histogram to understand the age distribution, followed by a count plot to analyze survival based on gender to see how many males and females survived. Then, I created a count plot to compare passengers who survived with those who did not based on gender and Pclass. Additionally, I plotted a histogram of age versus count, found the correlation between columns, and created a heatmap based on that correlation.
